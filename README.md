@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifranl00 
-- 👀 I’m interested in C++ developing but I'm open to sever languages. The purpose of the idea and the teamwork are the main values for me.
+- 👀 I’m interested in C++ developing but I'm open to several languages. The purpose of the idea and the teamwork are the main values for me.
 - 🌱 I’m currently learning deep learning with Python and compiling techniques and new advanced concepts of C++.
 - ✨ I'm a mid level software developer, connect with me on https://www.linkedin.com/in/irene-francisco-lopez-0a4997211/
 
